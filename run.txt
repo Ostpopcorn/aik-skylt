@@ -1,0 +1,1 @@
+svg2mod -i .\aik-logo-fixed.svg --debug -o .\lib\Special_Parts\Special_Parts.pretty\aik-logo-out -p 2
